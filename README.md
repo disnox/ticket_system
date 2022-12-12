@@ -119,3 +119,10 @@ xx@xx:xxx/project$ ./output/main
 └── 项目演示视频.mp4					 # 项目演示
 
 ```
+
+## 6. 视频演示
+
+<video id="video" controls="" preload="none">
+    <source id="mp4" src="E:\Code\puresoft\ticket_system\项目演示视频.mp4" type="video/mp4">
+</video>
+
