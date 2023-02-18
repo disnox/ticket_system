@@ -2,6 +2,7 @@
     "files.associations": {
         "unistd.h": "c",
         "display.h": "c",
-        "system.h": "c"
+        "system.h": "c",
+        "kernel_list.h": "c"
     }
 }
